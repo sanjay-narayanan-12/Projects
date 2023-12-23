@@ -1,0 +1,6 @@
+The JKS keystore uses a proprietary format. 
+It is recommended to migrate to PKCS12 which is an industry standard format using 
+"keytool -importkeystore 
+-srckeystore sanjay.jks 
+-destkeystore sanjay.jks 
+-deststoretype pkcs12".
