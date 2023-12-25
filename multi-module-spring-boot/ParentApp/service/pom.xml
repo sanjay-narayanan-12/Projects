@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.sanjaynarayanan</groupId>
+		<artifactId>ParentApp</artifactId>
+		<version>0.0.1</version>
+	</parent>
+	<artifactId>service</artifactId>
+	<name>service</name>
+	<url>http://maven.apache.org</url>
+	<packaging>jar</packaging>
+</project>
